@@ -46,3 +46,6 @@ print (Mytable)
 
 
 # 4 car a chaque fois qu'un chiffre est considéré comme plus grand l'algorithme l'envoi a la fin et revient au début en plus de dévoir checker tout les tableau
+
+X = "X"
+O = "O"
